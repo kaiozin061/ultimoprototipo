@@ -1,0 +1,36 @@
+[2026-11-11T17:06:02.565Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.5.1f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 52120 --ipc-path Unity-Upm-52120 -l 2 --log-file C:\\Users\\kaio62929246\\ultimoprototipo/Logs/upm.log
+[2026-11-11T17:06:02.632Z][INFO] IPC server started (IPC path=Unity-Upm-52120).
+[2026-11-11T17:06:02.632Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-52120.
+[2026-11-11T17:06:13.390Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-11T17:06:13.501Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-11T17:06:13.529Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-11T17:06:13.979Z][INFO] config:project:get-registries --> 200 (478 ms)
+[2026-11-11T17:06:14.045Z][INFO] project:list-packages --> 200 (655 ms)
+[2026-11-11T17:06:14.048Z][INFO] project:list-packages --> 200 (519 ms)
+[2026-11-11T17:06:21.644Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-11T17:06:21.673Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-11T17:06:21.830Z][INFO] project:list-packages --> 200 (186 ms)
+[2026-11-11T17:06:21.846Z][INFO] project:list-packages --> 200 (173 ms)
+[2026-11-11T17:06:24.566Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-11T17:06:24.716Z][INFO] project:list-packages --> 200 (150 ms)
+[2026-11-11T17:06:24.819Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-11T17:06:24.826Z][INFO] config:project:get-registries --> 200 (6 ms)
+[2026-11-11T17:06:29.445Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-11T17:06:29.602Z][INFO] project:list-packages --> 200 (157 ms)
+[2026-11-11T17:06:39.139Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-11T17:06:39.282Z][INFO] project:list-packages --> 200 (143 ms)
+[2026-11-11T17:06:39.394Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-11T17:06:39.529Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-11T17:06:39.546Z][INFO] config:project:get-registries --> 200 (17 ms)
+[2026-11-11T17:06:39.548Z][INFO] project:list-packages --> 200 (154 ms)

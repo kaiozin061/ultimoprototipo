@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaio62929246\\ultimoprototipo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kaio62929246\\ultimoprototipo\\assets\\scripiting\\barravida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripiting\\barravida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kaio62929246\\ultimoprototipo\\assets\\scripiting\\cura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripiting\\cura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kaio62929246\\ultimoprototipo\\assets\\scripiting\\inimigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripiting\\inimigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kaio62929246\\ultimoprototipo\\assets\\scripiting\\porta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripiting\\porta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kaio62929246\\ultimoprototipo\\assets\\scripiting\\coletavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripiting\\coletavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kaio62929246\\ultimoprototipo\\assets\\scripiting\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripiting\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kaio62929246\\ultimoprototipo\\assets\\scripiting\\interacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripiting\\interacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\kaio62929246\\ultimoprototipo\\assets\\scripiting\\movimentojogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripiting\\movimentojogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Porta.cs",
+              "DocumentMoniker": "C:\\Users\\kaio62929246\\ultimoprototipo\\Assets\\Scripiting\\Porta.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripiting\\Porta.cs",
+              "ToolTip": "C:\\Users\\kaio62929246\\ultimoprototipo\\Assets\\Scripiting\\Porta.cs",
+              "RelativeToolTip": "Assets\\Scripiting\\Porta.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T17:32:12.437Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cura.cs",
+              "DocumentMoniker": "C:\\Users\\kaio62929246\\ultimoprototipo\\Assets\\Scripiting\\Cura.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripiting\\Cura.cs",
+              "ToolTip": "C:\\Users\\kaio62929246\\ultimoprototipo\\Assets\\Scripiting\\Cura.cs",
+              "RelativeToolTip": "Assets\\Scripiting\\Cura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T19:36:40.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inimigo.cs",
+              "DocumentMoniker": "C:\\Users\\kaio62929246\\ultimoprototipo\\Assets\\Scripiting\\Inimigo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripiting\\Inimigo.cs",
+              "ToolTip": "C:\\Users\\kaio62929246\\ultimoprototipo\\Assets\\Scripiting\\Inimigo.cs",
+              "RelativeToolTip": "Assets\\Scripiting\\Inimigo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T19:32:53.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BarraVida.cs",
+              "DocumentMoniker": "C:\\Users\\kaio62929246\\ultimoprototipo\\Assets\\Scripiting\\BarraVida.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripiting\\BarraVida.cs",
+              "ToolTip": "C:\\Users\\kaio62929246\\ultimoprototipo\\Assets\\Scripiting\\BarraVida.cs*",
+              "RelativeToolTip": "Assets\\Scripiting\\BarraVida.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T19:28:19.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Coletavel.cs",
+              "DocumentMoniker": "C:\\Users\\kaio62929246\\ultimoprototipo\\Assets\\Scripiting\\Coletavel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripiting\\Coletavel.cs",
+              "ToolTip": "C:\\Users\\kaio62929246\\ultimoprototipo\\Assets\\Scripiting\\Coletavel.cs",
+              "RelativeToolTip": "Assets\\Scripiting\\Coletavel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T20:39:12.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\kaio62929246\\ultimoprototipo\\Assets\\Scripiting\\Inventario.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripiting\\Inventario.cs",
+              "ToolTip": "C:\\Users\\kaio62929246\\ultimoprototipo\\Assets\\Scripiting\\Inventario.cs",
+              "RelativeToolTip": "Assets\\Scripiting\\Inventario.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA1wDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T19:58:36.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Interacao.cs",
+              "DocumentMoniker": "C:\\Users\\kaio62929246\\ultimoprototipo\\Assets\\Scripiting\\Interacao.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripiting\\Interacao.cs",
+              "ToolTip": "C:\\Users\\kaio62929246\\ultimoprototipo\\Assets\\Scripiting\\Interacao.cs",
+              "RelativeToolTip": "Assets\\Scripiting\\Interacao.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T19:15:56.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovimentoJogador.cs",
+              "DocumentMoniker": "C:\\Users\\kaio62929246\\ultimoprototipo\\Assets\\Scripiting\\MovimentoJogador.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripiting\\MovimentoJogador.cs",
+              "ToolTip": "C:\\Users\\kaio62929246\\ultimoprototipo\\Assets\\Scripiting\\MovimentoJogador.cs",
+              "RelativeToolTip": "Assets\\Scripiting\\MovimentoJogador.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwBoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T17:34:32.11Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
